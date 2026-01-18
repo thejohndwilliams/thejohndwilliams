@@ -1,8 +1,8 @@
 ### John Williams
 
-Data & Analytics Engineer at SpaceX. Building robust pipelines, forecasting systems, and analytics solutions.
+Enterprise Business Operation at SpaceX. Building robust pipelines, forecasting systems, and analytics solutions.
 
-Previously worked in cybersecurity policy and strategy.
+Cybersecurity policy and strategy through Baylor University.
 
 Currently building **Noticing** — exploring technology, meaning, and craft.
 
