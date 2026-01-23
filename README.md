@@ -1,6 +1,6 @@
 ### John Williams
 
-Enterprise Business Operation at SpaceX. Building robust pipelines, forecasting systems, and analytics solutions.
+Enterprise Business Operation at SpaceX. Creating pipelines, forecasting solutions, and analytics systems.
 
 Cybersecurity policy and strategy through Baylor University.
 
