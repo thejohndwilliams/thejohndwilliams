@@ -4,7 +4,7 @@ Enterprise Business Operation at SpaceX. Building robust pipelines, forecasting 
 
 Cybersecurity policy and strategy through Baylor University.
 
-Currently building **Noticing** — exploring technology, meaning, and craft.
+Currently building **Noticing** and pursuing the Lord. 
 
 ---
 
